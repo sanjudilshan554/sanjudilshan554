@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sanju Dilshan</h1>
+![image](https://github.com/sanjudilshan554/sanjudilshan554/assets/125470539/42f2b3f9-cab8-437b-ad64-d58638dc0700)<h1 align="center">Hi 👋, I'm Sanju Dilshan</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
-<img align="right" alt="homeimage" width="400" src="https://i.gifer.com/STRh.gif">
+<img align="right" alt="homeimage" width="400" src="[https://i.gifer.com/STRh.gif](https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjudilshan554&label=Profile%20views&color=0e75b6&style=flat" alt="sanjudilshan554" /> </p>
 
@@ -17,15 +17,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@sanjudilshan554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sanjudilshan554" height="30" width="40" /></a>
+<a href="https://codepen.io/sanjudilshan554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sanjudilshan554" height="30" width="40" /></a>
 <a href="https://twitter.com/@dashakacreation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dashakacreation" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjudilshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjudilshan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjudilshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjudilshan/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21603800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21603800" height="30" width="40" /></a>
-<a href="https://fb.com/sanju dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanju dilshan" height="30" width="40" /></a>
-<a href="https://instagram.com/sanju dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanju dilshan" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/sanju3157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/sanju3157" height="30" width="40" /></a>
-<a href="https://medium.com/@sanju dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanju dilshan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dashaka creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dashaka creation" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100049952920825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanju dilshan" height="30" width="40" /></a>
+<a href="https://instagram.com/sanju__dilshan__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanju dilshan" height="30" width="40" /></a>
+<a href="https://dribbble.com/sanju3157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/sanju3157" height="30" width="40" /></a>
+<a href="https://medium.com/@sanjudilshan554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanju dilshan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dashakacreation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dashaka creation" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
