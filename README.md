@@ -1,18 +1,16 @@
 ![image](https://github.com/sanjudilshan554/sanjudilshan554/assets/125470539/6a9c9d6b-6922-4403-b95f-06bd74cbb9b8)
 <h1 align="center">Hi 👋, I'm Sanju Dilshan</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjudilshan554&label=Profile%20views&color=0e75b6&style=flat" alt="sanjudilshan554" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Python, VueJs, C#**
+- 🌱 I’m currently learning **Laravel, VueJs, **
 
 - 📝 I regularly write articles on [https://medium.com/@sanjudilshan554](https://medium.com/@sanjudilshan554)
 
 - 💬 Ask me about **vue**
 
 - 📫 How to reach me **sanjudilshan554@gmail.com**
-
-- ⚡ Fun fact **I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
