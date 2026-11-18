@@ -1,6 +1,12 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <p align="center">
-  <a href="https://sanjudilshan.online"><img src="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header.svg" width="100%" alt="Sanju Dilshan — Full-Stack Engineer" /></a>
+  <a href="https://sanjudilshan.online">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header-light.svg" />
+      <img src="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header.svg" width="100%" alt="Sanju Dilshan — Full-Stack Engineer" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -142,15 +148,10 @@ Production-ready foundation with tenant provisioning, isolation and admin toolin
   <img src="https://streak-stats.demolab.com?user=sanjudilshan554&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6EC7&currStreakLabel=36BCF7" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjudilshan554&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
-</p>
 
-<details>
-<summary><b>📈 Show contribution activity graph</b></summary>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjudilshan554&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6EC7" width="100%" alt="activity graph" />
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjudilshan554&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6EC7" width="100%" alt="activity graph" />
+</p>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 <p align="center">
