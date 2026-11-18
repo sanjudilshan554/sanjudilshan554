@@ -4,7 +4,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header-light.svg" />
-      <img src="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header.svg" width="100%" alt="Sanju Dilshan — Full-Stack Engineer" />
+      <img src="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header.svg" width="100%" alt="Sanju Dilshan - Full-Stack Engineer" />
     </picture>
   </a>
 </p>
@@ -81,16 +81,16 @@ Hi, I'm **Sanju** 👋 a Full-Stack Developer at **X4 Digital Labs**, Sri Lanka 
 > 💡 *Click any project to expand it*
 
 <details open>
-<summary><b>🧭 Harigaman</b> — AI-style trip planner that builds complete itineraries &nbsp;<a href="https://harigaman.lk"><img src="https://img.shields.io/badge/Live-harigaman.lk-2ea44f?style=flat-square" /></a></summary>
+<summary><b>🧭 Harigaman</b> - AI-style trip planner that builds complete itineraries &nbsp;<a href="https://harigaman.lk"><img src="https://img.shields.io/badge/Live-harigaman.lk-2ea44f?style=flat-square" /></a></summary>
 <br/>
 
-Generates full, day-by-day travel plans using only **free APIs** — routes, places, timing and stays in one flow.
+Generates full, day-by-day travel plans using only **free APIs** - routes, places, timing and stays in one flow.
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </details>
 
 <details>
-<summary><b>🏢 Orjwan</b> — Multi-tenant B2B workforce platform</summary>
+<summary><b>🏢 Orjwan</b> - Multi-tenant B2B workforce platform</summary>
 <br/>
 
 Enterprise workforce management with isolated tenants, role-based modules and cloud-scale caching.
@@ -99,16 +99,16 @@ Enterprise workforce management with isolated tenants, role-based modules and cl
 </details>
 
 <details>
-<summary><b>🎓 Fest Online Academy</b> — Full-stack online learning platform</summary>
+<summary><b>🎓 Fest Online Academy</b> - Full-stack online learning platform</summary>
 <br/>
 
-Courses, enrolments, learner dashboards and an admin panel — built as a decoupled API + SSR frontend.
+Courses, enrolments, learner dashboards and an admin panel - built as a decoupled API + SSR frontend.
 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </details>
 
 <details>
-<summary><b>🏋️ VYTOR Fitness</b> — Gym management system for Sri Lankan gyms</summary>
+<summary><b>🏋️ VYTOR Fitness</b> - Gym management system for Sri Lankan gyms</summary>
 <br/>
 
 Memberships, attendance, payments and trainer management tailored for local gyms.
@@ -117,7 +117,7 @@ Memberships, attendance, payments and trainer management tailored for local gyms
 </details>
 
 <details>
-<summary><b>📱 Lanka Guru</b> — Tech-education app for Sri Lankan learners</summary>
+<summary><b>📱 Lanka Guru</b> - Tech-education app for Sri Lankan learners</summary>
 <br/>
 
 Bite-sized computer and technology lessons designed for local learners.
@@ -126,7 +126,7 @@ Bite-sized computer and technology lessons designed for local learners.
 </details>
 
 <details>
-<summary><b>🧱 Laravel Multi-Tenant Boilerplate</b> — Reusable SaaS starter kit</summary>
+<summary><b>🧱 Laravel Multi-Tenant Boilerplate</b> - Reusable SaaS starter kit</summary>
 <br/>
 
 Production-ready foundation with tenant provisioning, isolation and admin tooling out of the box.
