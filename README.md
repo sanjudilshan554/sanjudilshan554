@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <p align="center">
-  <a href="https://sanjudilshan.online"><img src="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/assets/header.svg" width="100%" alt="Sanju Dilshan — Full-Stack Engineer" /></a>
+  <a href="https://sanjudilshan.online"><img src="https://raw.githubusercontent.com/sanjudilshan554/sanjudilshan554/main/header.svg" width="100%" alt="Sanju Dilshan — Full-Stack Engineer" /></a>
 </p>
 
 <p align="center">
