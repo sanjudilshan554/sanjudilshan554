@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
 <defs>
- <radialGradient id="bg" cx="50%" cy="35%" r="80%"><stop offset="0" stop-color="#14202b"/><stop offset="1" stop-color="#05080c"/></radialGradient>
- <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.05" stop-color="#fff" stop-opacity="0.08"/><stop offset="0.55" stop-color="#fff" stop-opacity="0.55"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient>
- <linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000"/><stop offset="0.12" stop-color="#fff"/><stop offset="0.88" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+ <radialGradient id="bg" cx="50%" cy="45%" r="55%"><stop offset="0" stop-color="#131c27"/><stop offset="1" stop-color="#0d1117"/></radialGradient>
+ <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.05" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.7"/><stop offset="0.78" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+ <linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000"/><stop offset="0.18" stop-color="#fff"/><stop offset="0.82" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
  <mask id="m"><rect width="1200" height="340" fill="url(#fade)"/></mask>
  <mask id="m2"><rect width="1200" height="340" fill="url(#side)"/></mask>
  <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#bfe9ff"/><stop offset="1" stop-color="#36BCF7"/></linearGradient>
  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <radialGradient id="shade" cx="50%" cy="48%" r="38%"><stop offset="0" stop-color="#05080c" stop-opacity="0.85"/><stop offset="1" stop-color="#05080c" stop-opacity="0"/></radialGradient>
+ <radialGradient id="shade" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#0d1117" stop-opacity="0.85"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient>
 </defs>
 <rect width="1200" height="340" fill="url(#bg)"/>
 <g mask="url(#m2)"><g mask="url(#m)" fill="none" stroke="#cfe8f5" stroke-width="0.9" stroke-opacity="0.75" stroke-linejoin="round">
@@ -121,7 +121,7 @@
 <path d="M2825,874 L2713,795 L2549,674"><animate attributeName="d" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" values="M2825,874 L2713,795 L2549,674;M2825,784 L2713,669 L2549,527;M2825,694 L2713,555 L2549,412;M2825,639 L2713,497 L2549,374;M2825,640 L2713,516 L2549,426;M2825,696 L2713,606 L2549,548;M2825,786 L2713,732 L2549,695;M2825,875 L2713,846 L2549,810;M2825,930 L2713,904 L2549,848;M2825,930 L2713,885 L2549,796;M2825,874 L2713,795 L2549,674"/></path>
 <path d="M2979,867 L2849,758"><animate attributeName="d" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" values="M2979,867 L2849,758;M2979,742 L2849,607;M2979,634 L2849,492;M2979,583 L2849,456;M2979,609 L2849,514;M2979,703 L2849,643;M2979,827 L2849,794;M2979,936 L2849,909;M2979,987 L2849,945;M2979,960 L2849,887;M2979,867 L2849,758"/></path>
 </g></g>
-<ellipse cx="600.0" cy="150" rx="430" ry="95" fill="url(#shade)"/>
+<ellipse cx="600.0" cy="155" rx="440" ry="95" fill="url(#shade)"/>
 <g text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
  <text x="600.0" y="160" font-size="78" font-weight="800" letter-spacing="3" fill="url(#txt)" filter="url(#glow)">Sanju Dilshan
   <animate attributeName="opacity" values="0;1" dur="1.6s" fill="freeze"/></text>
