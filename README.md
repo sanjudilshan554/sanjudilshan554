@@ -1,35 +1,146 @@
-![image](https://github.com/sanjudilshan554/sanjudilshan554/assets/125470539/6a9c9d6b-6922-4403-b95f-06bd74cbb9b8)
-<h1 align="center">Hi 👋, I'm Sanju Dilshan</h1>
-<h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjudilshan554&label=Profile%20views&color=0e75b6&style=flat" alt="sanjudilshan554" /> </p>
-
-- 🌱 I’m currently learning **Laravel, VueJs, **
-
-- 📝 I regularly write articles on [https://medium.com/@sanjudilshan554](https://medium.com/@sanjudilshan554)
-
-- 💬 Ask me about **vue**
-
-- 📫 How to reach me **sanjudilshan554@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sanjudilshan554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sanjudilshan554" height="30" width="40" /></a>
-<a href="https://twitter.com/@dashakacreation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dashakacreation" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjudilshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjudilshan/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21603800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21603800" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100049952920825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanju dilshan" height="30" width="40" /></a>
-<a href="https://instagram.com/sanju__dilshan__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanju dilshan" height="30" width="40" /></a>
-<a href="https://dribbble.com/sanju3157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/sanju3157" height="30" width="40" /></a>
-<a href="https://medium.com/@sanjudilshan554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanju dilshan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@dashakacreation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dashaka creation" height="30" width="40" /></a>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sanju%20Dilshan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=18" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%40+X4+Digital+Labs;Laravel+%7C+Livewire+%7C+Filament+%7C+Vue;React+%7C+Next.js+%7C+NestJS+%7C+Three.js;Multi-Tenant+SaaS+%26+Workforce+Platforms;Building+3D+%26+interactive+web+experiences" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjudilshan554&show_icons=true&locale=en&layout=compact" alt="sanjudilshan554" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjudilshan554&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/sanjudilshan554?tab=followers"><img src="https://img.shields.io/github/followers/sanjudilshan554?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers" /></a>
+  <a href="https://github.com/sanjudilshan554"><img src="https://img.shields.io/github/stars/sanjudilshan554?label=Stars&style=for-the-badge&color=203a43&logo=github" alt="stars" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjudilshan554&show_icons=true&locale=en" alt="sanjudilshan554" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjudilshan554&" alt="sanjudilshan554" /></p>
+<!-- ===================== ABOUT ===================== -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+
+### 🧑‍💻 About Me
+
+- 🏢 Full-Stack Developer at **X4 Digital Labs**
+- 🏗️ I build **multi-tenant SaaS platforms**, **HR / workforce management systems** and **e-learning platforms**
+- 🌐 Backend with **Laravel, NestJS & Node.js** · Frontend with **Vue, React, Next.js & Three.js**
+- ☁️ Deploying on **AWS** with **MySQL & Redis**
+- 🌱 Currently exploring **Three.js & 3D web experiences**
+- 📝 I write on [Medium](https://medium.com/@sanjudilshan554)
+- 💬 Ask me about **Laravel, Vue, multi-tenancy**
+- 📫 Reach me at **sanjudilshan554@gmail.com**
+
+<br clear="right"/>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+### 🛠️ Tech Stack
+
+**💻 Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,cpp,html,css&perline=8" />
+</p>
+
+**🎨 Frontend & 3D**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,threejs,tailwind,bootstrap,vite&perline=8" />
+</p>
+
+**⚙️ Backend & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+**🗄️ Databases & Cache**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,redis&perline=8" />
+  <br/>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+**☁️ Cloud, DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,postman,vscode&perline=8" />
+</p>
+
+**🎨 Design & Hardware**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,arduino&perline=8" />
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+### 🚀 Featured Work
+
+| Project | What it is | Built with |
+|---|---|---|
+| 🧭 **[Harigaman](https://harigaman.lk)** | Trip planner that builds full itineraries using free APIs | Laravel · Vue · MySQL |
+| 🎓 **Fest Online Academy** | Full-stack online learning platform | NestJS · Next.js · React |
+| 🏢 **Orjwan** | Multi-tenant B2B workforce platform | Laravel · Filament · Livewire · MySQL · Redis · AWS |
+| 🏋️ **VYTOR Fitness** | Gym management system for Sri Lankan gyms | Laravel · Blade · MySQL |
+| 📱 **Lanka Guru** | Tech-education app for Sri Lankan learners | Laravel · Vue |
+| 🧱 **Laravel Multi-Tenant Boilerplate** | Reusable SaaS starter with tenant tooling | Laravel · Filament · Redis |
+
+> ✏️ *Edit the "Built with" column if any stack differs.*
+
+---
+
+<!-- ===================== 3D CONTRIBUTIONS ===================== -->
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</p>
+
+---
+
+<!-- ===================== STATS ===================== -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjudilshan554&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjudilshan554&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjudilshan554&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjudilshan554&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjudilshan554&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanjudilshan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@sanjudilshan554"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/21603800"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://codepen.io/sanjudilshan554"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://dribbble.com/sanju3157"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <br/>
+  <a href="https://twitter.com/dashakacreation"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@dashakacreation"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/sanju__dilshan__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://fb.com/profile.php?id=100049952920825"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:sanjudilshan554@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</p>
